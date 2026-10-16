@@ -1,0 +1,8 @@
+[project]
+name = "onec-hr-integration-showcase"
+version = "1.0.0"
+description = "Reliable HR integration architecture for 1C"
+requires-python = ">=3.11"
+
+[tool.ruff]
+line-length = 120
